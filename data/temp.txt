@@ -1,1 +1,1 @@
-aaaaaaaaaa
+Acá iría la data, los archivos son demasiado grandes para subir a Github, así que eso irá en el gitignore.
